@@ -1,6 +1,7 @@
 # CYRYWeb - apprendre l'anglais
 
-Version Jakarta EE de l'application CYRY
+Version Jakarta EE de l'application CYRY.
+Cette application utilise Jakarta EE, HTML5, CSS3 et MySQL pour la base de données.
 
 ![CYRY.png](/image/learn_english.png)
 
