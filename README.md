@@ -1,4 +1,6 @@
-# CYRY - apprendre l'anglais
+# CYRYWeb - apprendre l'anglais
+
+Version Jakarta EE de l'application CYRY
 
 ![CYRY.png](/image/learn_english.png)
 
